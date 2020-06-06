@@ -44,7 +44,7 @@ https://www.balena.io/etcher/
 
 **Step 3**
 
-You will need to install the terminal emulator ***Screen*** (https://www.gnu.org/software/screen/) or for Window you can use ***Tera Term*** (https://ttssh2.osdn.jp/) 
+You will need to install the terminal multiplexer ***Screen*** (https://www.gnu.org/software/screen/) or for Windows you can use ***Tera Term*** (https://ttssh2.osdn.jp/) 
 
 To install on Linux(Ubuntu) run the following command.
 

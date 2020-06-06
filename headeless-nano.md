@@ -60,7 +60,7 @@ Connect the computer to the Jetson Nano
 After about 20 seconds you will see a notification that the Jetson Nano has been mounted as a USB device.  The name begins with ***ACM*** and inn order to find where it is mounted run the following command on Mac or Linux (Sorry I don't know what Windows does here.)
 
 ```console
-ls -ls /dev/tty* | grep ACM
+ls /dev/ttyACM*
 ```
 
 You will need the name staring with */dev/ttyACM* for the next step.

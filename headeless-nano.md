@@ -80,7 +80,8 @@ The terminal may flash and just diplay a mostly blank screen with a blinking cur
 **Step 7**
 
 If the connection was successful you will be greeted with the following message.
-![Jetson Nano Screen Message](jetson_welcome.png)
+
+![Jetson Nano Screen Message](images/jetson_welcome.png)
 
 From here you will interact with the menu with the ***Tab, Arrow(Up, Down) and Enter*** keys.  
 
@@ -118,12 +119,12 @@ In **Ubuntu**: Go to ***Settings***, choose ***Network***
 
 If you see multiple network adapters, the top one is usually your computer's ethernet.  
 
-![Settings, Network, Ethernet](ethernet.png)
+![Settings, Network, Ethernet](images/ethernet.png)
 
 
 click the config icon(looks like a small gear) click on ***IPv4*** and select ***Share to other computers***
 
-![Network, IPv4](ipv4.png)
+![Network, IPv4](images/ipv4.png)
 
 Your computer should now be sharing our internet connection to the Jetson Nano.
 

@@ -21,14 +21,14 @@ sudo apt install xfce4 -y
 **Step 3**
 Install the remote desktop software that will allow you view the Jetson Nano's GUI
 ```console
-sudo apt install x2goserver x2goserver-xsession
+sudo apt install x2goserver x2goserver-xsession -y
 ```
 
 **Step 4**
 Install the remote desktop client software on your computer, I am using Ubuntu.
 (Install instructions for other operating systems can be found at [X2Go Client](https://wiki.x2go.org/doku.php/doc:installation:x2goclient))
 ```console
-sudo apt install x2goclient
+sudo apt install x2goclient -y
 ```
 
 **Step 5**
